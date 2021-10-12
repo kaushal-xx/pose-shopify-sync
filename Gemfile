@@ -13,7 +13,7 @@ gem 'pg', '~> 0.15'
 # Use mysql as the database for Active Record
 gem 'mysql2', '>= 0.3.18', '< 0.5'
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'puma_worker_killer'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
